@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/main.css">
-    <title>Sergio M.C. Portfolio</title>
+    <link rel="stylesheet" href="/dist/css/main.css">
+    <title>Contact Sergio M.C.</title>
 </head>
 <body>
     <header>
@@ -15,7 +15,7 @@
 
         <nav class="nav">
             <ul class="menu-nav">
-                <li class="menu-nav__item active">
+                <li class="menu-nav__item">
                     <a href="index.html" class="menu-nav__link">Home</a>
                 </li>
                 <li class="menu-nav__item">
@@ -24,21 +24,30 @@
                 <li class="menu-nav__item">
                     <a href="projects.html" class="menu-nav__link">My Projects</a>
                 </li>
-                <li class="menu-nav__item">
+                <li class="menu-nav__item active">
                     <a href="contact.html" class="menu-nav__link">Contact Me</a>
                 </li>
             </ul>
         </nav>
     </header>
     <main>
-        <section class="home">
-            <h2>Hi! My name is</h2>
-            <h1 class="home__name">
-                Sergio <span class="home__name--last">M.C.</span>
-            </h1>
-            <h2>
-                Web Developer, Full stack & Programmer
-            </h2>
+        <section class="contact">
+           <h2>Contact Me</h2>
+
+            <div class="contact__list">
+                <div class="contact__email">
+                    <i class="fas fa-envelope"></i>Email
+                    <div class="text-secondary">email@email.com</div>
+                </div>
+                <div class="contact__phone">
+                    <i class="fas fa-mobile-alt"></i>Phone
+                    <div class="text-secondary">+34 62783XXXX</div>
+                </div>
+                <div class="contact__address">
+                    <i class="fas fa-map-marker-alt"></i>Address
+                    <div class="text-secondary">Kalea nºXX Getxo, Bizkaia</div>
+                </div>
+            </div>
 
             <div class="social-icons">
                 <a href="#!">
@@ -60,6 +69,6 @@
     <footer>&copy; Copyright 2021</footer>
 
     <script src="https://kit.fontawesome.com/6cb742b58e.js" crossorigin="anonymous"></script>
-    <script src="js/main.js"></script>
+    <script src="dist/js/main.js"></script>
 </body>
 </html>
