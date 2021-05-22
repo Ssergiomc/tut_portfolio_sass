@@ -1,5 +1,5 @@
 # tut_portfolio_sass
-<h1Portfolio with JS vanilla + Sass + Font Awesome Icons</h1>
+<h1>Portfolio with JS vanilla + Sass + Font Awesome Icons</h1>
 
 <h3>- Technologies</h3>
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="Javascript tag"></img>
 
 <h3>- Deploy on line</h3>
-<a href="https://ssergiomc.github.io/tut_portfolio_sass/index.html">Visit me</p>
+<a href="https://ssergiomc.github.io/tut_portfolio_sass/index.html" target="_blank">Visit me</p>
 
 <h3>freeCodeCamp.org Youtube tutorial</h3>
 <a href="https://www.youtube.com/watch?v=_a5j7KoflTs">Watch me</p>
