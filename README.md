@@ -1,5 +1,5 @@
 # tut_portfolio_sass
-<h1>Portfolio with JS vanilla + Sass + Font Awesome Icons</h1>
+<h1> 🔷 Portfolio with JS vanilla + Sass + Font Awesome Icons</h1>
 
 <h3>- Technologies</h3>
 
